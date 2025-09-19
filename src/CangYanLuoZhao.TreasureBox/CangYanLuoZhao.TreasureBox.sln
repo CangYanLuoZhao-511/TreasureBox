@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{900ECED2-1C1A-4387-B3CE-231368D30591}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "presentation", "presentation", "{46E3840C-1B10-4A3A-A392-F7154D68603C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CangYanLuoZhao.TreasureBox.BasicTools", "CangYanLuoZhao.TreasureBox.BasicTools\CangYanLuoZhao.TreasureBox.BasicTools.csproj", "{63196CCF-6FC9-4F68-B640-FC3FFE7AF36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CangYanLuoZhao.TreasureBox.Contract", "CangYanLuoZhao.TreasureBox.Contract\CangYanLuoZhao.TreasureBox.Contract.csproj", "{284A2631-C0CB-46FA-A766-CA52470E3F90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CangYanLuoZhao.TreasureBox.RemoteRequestUtils", "CangYanLuoZhao.TreasureBox.RemoteRequestUtils\CangYanLuoZhao.TreasureBox.RemoteRequestUtils.csproj", "{F1833FCE-7EBD-4188-8623-C70344DAE53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63196CCF-6FC9-4F68-B640-FC3FFE7AF36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63196CCF-6FC9-4F68-B640-FC3FFE7AF36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63196CCF-6FC9-4F68-B640-FC3FFE7AF36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63196CCF-6FC9-4F68-B640-FC3FFE7AF36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284A2631-C0CB-46FA-A766-CA52470E3F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284A2631-C0CB-46FA-A766-CA52470E3F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284A2631-C0CB-46FA-A766-CA52470E3F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284A2631-C0CB-46FA-A766-CA52470E3F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1833FCE-7EBD-4188-8623-C70344DAE53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1833FCE-7EBD-4188-8623-C70344DAE53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1833FCE-7EBD-4188-8623-C70344DAE53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1833FCE-7EBD-4188-8623-C70344DAE53C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63196CCF-6FC9-4F68-B640-FC3FFE7AF36E} = {900ECED2-1C1A-4387-B3CE-231368D30591}
+		{284A2631-C0CB-46FA-A766-CA52470E3F90} = {900ECED2-1C1A-4387-B3CE-231368D30591}
+		{F1833FCE-7EBD-4188-8623-C70344DAE53C} = {900ECED2-1C1A-4387-B3CE-231368D30591}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {934D1413-38C8-46FB-991C-75EEAA989E21}
+	EndGlobalSection
+EndGlobal
