@@ -6,7 +6,7 @@
  * 命名空间：CangYanLuoZhao.TreasureBox.RemoteRequestUtils
  * 唯一标识：c419313a-f02e-4eea-aae8-5de16f07ef06
  * 文件名：IRemoteRequestClient
- * 当前用户域：MM-202402051433
+ * 当前用户域：*************************************
  * 创建者：苍煙落照
  * 电子邮箱：543730731@qq.com
  * 创建时间：2025/9/18 23:01:56

@@ -7,11 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{900ECED2-1
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "presentation", "presentation", "{46E3840C-1B10-4A3A-A392-F7154D68603C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CangYanLuoZhao.TreasureBox.BasicTools", "CangYanLuoZhao.TreasureBox.BasicTools\CangYanLuoZhao.TreasureBox.BasicTools.csproj", "{63196CCF-6FC9-4F68-B640-FC3FFE7AF36E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CangYanLuoZhao.TreasureBox.BasicTools", "CangYanLuoZhao.TreasureBox.BasicTools\CangYanLuoZhao.TreasureBox.BasicTools.csproj", "{63196CCF-6FC9-4F68-B640-FC3FFE7AF36E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CangYanLuoZhao.TreasureBox.Contract", "CangYanLuoZhao.TreasureBox.Contract\CangYanLuoZhao.TreasureBox.Contract.csproj", "{284A2631-C0CB-46FA-A766-CA52470E3F90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CangYanLuoZhao.TreasureBox.Contract", "CangYanLuoZhao.TreasureBox.Contract\CangYanLuoZhao.TreasureBox.Contract.csproj", "{284A2631-C0CB-46FA-A766-CA52470E3F90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CangYanLuoZhao.TreasureBox.RemoteRequestUtils", "CangYanLuoZhao.TreasureBox.RemoteRequestUtils\CangYanLuoZhao.TreasureBox.RemoteRequestUtils.csproj", "{F1833FCE-7EBD-4188-8623-C70344DAE53C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CangYanLuoZhao.TreasureBox.RemoteRequestUtils", "CangYanLuoZhao.TreasureBox.RemoteRequestUtils\CangYanLuoZhao.TreasureBox.RemoteRequestUtils.csproj", "{F1833FCE-7EBD-4188-8623-C70344DAE53C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CangYanLuoZhao.TreasureBox.EnhancedTools", "CangYanLuoZhao.TreasureBox.EnhancedTools\CangYanLuoZhao.TreasureBox.EnhancedTools.csproj", "{7C69C9AD-08B9-4AA7-9066-FEC5890B7CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CangYanLuoZhao.TreasureBox.ConsoleApp", "CangYanLuoZhao.TreasureBox.ConsoleApp\CangYanLuoZhao.TreasureBox.ConsoleApp.csproj", "{795E7351-1ADF-46CD-98AE-27E2EF50091C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,14 @@ Global
 		{F1833FCE-7EBD-4188-8623-C70344DAE53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1833FCE-7EBD-4188-8623-C70344DAE53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1833FCE-7EBD-4188-8623-C70344DAE53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C69C9AD-08B9-4AA7-9066-FEC5890B7CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C69C9AD-08B9-4AA7-9066-FEC5890B7CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C69C9AD-08B9-4AA7-9066-FEC5890B7CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C69C9AD-08B9-4AA7-9066-FEC5890B7CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795E7351-1ADF-46CD-98AE-27E2EF50091C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795E7351-1ADF-46CD-98AE-27E2EF50091C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795E7351-1ADF-46CD-98AE-27E2EF50091C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795E7351-1ADF-46CD-98AE-27E2EF50091C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +51,8 @@ Global
 		{63196CCF-6FC9-4F68-B640-FC3FFE7AF36E} = {900ECED2-1C1A-4387-B3CE-231368D30591}
 		{284A2631-C0CB-46FA-A766-CA52470E3F90} = {900ECED2-1C1A-4387-B3CE-231368D30591}
 		{F1833FCE-7EBD-4188-8623-C70344DAE53C} = {900ECED2-1C1A-4387-B3CE-231368D30591}
+		{7C69C9AD-08B9-4AA7-9066-FEC5890B7CB6} = {900ECED2-1C1A-4387-B3CE-231368D30591}
+		{795E7351-1ADF-46CD-98AE-27E2EF50091C} = {46E3840C-1B10-4A3A-A392-F7154D68603C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {934D1413-38C8-46FB-991C-75EEAA989E21}
